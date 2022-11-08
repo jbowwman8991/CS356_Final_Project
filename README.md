@@ -1,3 +1,3 @@
-# CS356_Final_Project
+# CS356 Final Project
 
 Shopping List App for CS356 Final Project
